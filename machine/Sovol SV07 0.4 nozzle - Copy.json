@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Sovol SV07 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Sovol SV07 0.4 nozzle - Copy",
+    "print_host": "printer.local",
+    "printer_settings_id": "Sovol SV07 0.4 nozzle - Copy",
+    "version": "2.2.0.4"
+}

@@ -1,0 +1,31 @@
+{
+    "activate_air_filtration": [
+        "1"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_flow_ratio": [
+        "0.985"
+    ],
+    "filament_settings_id": [
+        "SUNLU Silk PLA+ gold"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "inherits": "SUNLU Silk PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "SUNLU Silk PLA+ gold",
+    "pressure_advance": [
+        "0.045"
+    ],
+    "version": "2.3.0.2"
+}

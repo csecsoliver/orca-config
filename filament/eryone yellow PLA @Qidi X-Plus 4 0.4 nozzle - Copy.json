@@ -1,0 +1,31 @@
+{
+    "additional_cooling_fan_speed": [
+        "50"
+    ],
+    "default_filament_colour": [
+        "#FFFF00"
+    ],
+    "filament_cost": [
+        "7000"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "eryone yellow PLA @Qidi X-Plus 4 0.4 nozzle - Copy"
+    ],
+    "filament_vendor": [
+        "eryone"
+    ],
+    "from": "User",
+    "inherits": "Qidi Generic PLA @Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "eryone yellow PLA @Qidi X-Plus 4 0.4 nozzle - Copy",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "version": "2.2.0.4"
+}

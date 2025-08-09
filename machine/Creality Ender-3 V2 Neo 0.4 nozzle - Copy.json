@@ -1,0 +1,9 @@
+{
+    "from": "User",
+    "inherits": "Creality Ender-3 V2 Neo 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Creality Ender-3 V2 Neo 0.4 nozzle - Copy",
+    "printer_settings_id": "Creality Ender-3 V2 Neo 0.4 nozzle - Copy",
+    "time_cost": "30",
+    "version": "2.2.0.4"
+}

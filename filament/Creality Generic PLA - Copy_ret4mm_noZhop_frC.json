@@ -1,0 +1,28 @@
+{
+    "filament_cost": [
+        "6500"
+    ],
+    "filament_flow_ratio": [
+        "1.03"
+    ],
+    "filament_retraction_length": [
+        "4"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA - Copy_ret4mm_noZhop_frC"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA - Copy_ret4mm_noZhop_frC",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "195"
+    ],
+    "version": "2.2.0.4"
+}

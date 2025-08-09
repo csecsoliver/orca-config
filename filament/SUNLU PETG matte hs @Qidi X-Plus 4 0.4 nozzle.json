@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#00FF00"
+    ],
+    "filament_settings_id": [
+        "SUNLU PETG matte hs @Qidi X-Plus 4 0.4 nozzle"
+    ],
+    "from": "User",
+    "inherits": "SUNLU PETG basic @Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "SUNLU PETG matte hs @Qidi X-Plus 4 0.4 nozzle",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "pressure_advance": [
+        "0.05"
+    ],
+    "version": "2.2.0.4"
+}

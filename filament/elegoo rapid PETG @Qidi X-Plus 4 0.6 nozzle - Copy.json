@@ -1,0 +1,52 @@
+{
+    "default_filament_colour": [
+        "#0000FF"
+    ],
+    "filament_cost": [
+        "7000"
+    ],
+    "filament_flow_ratio": [
+        "0.97"
+    ],
+    "filament_max_volumetric_speed": [
+        "200"
+    ],
+    "filament_retract_lift_above": [
+        "0.22"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "elegoo rapid PETG @Qidi X-Plus 4 0.6 nozzle - Copy"
+    ],
+    "filament_start_gcode": [
+        ""
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "Qidi Generic PETG @Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "elegoo rapid PETG @Qidi X-Plus 4 0.6 nozzle - Copy",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "270"
+    ],
+    "pressure_advance": [
+        "0.025"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "2.2.0.4"
+}

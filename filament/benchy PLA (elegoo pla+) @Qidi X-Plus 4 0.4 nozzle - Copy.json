@@ -1,0 +1,61 @@
+{
+    "additional_cooling_fan_speed": [
+        "100"
+    ],
+    "default_filament_colour": [
+        "#FF8000"
+    ],
+    "filament_cost": [
+        "7000"
+    ],
+    "filament_max_volumetric_speed": [
+        "30"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "0"
+    ],
+    "filament_retraction_minimum_travel": [
+        "4"
+    ],
+    "filament_settings_id": [
+        "benchy PLA (elegoo pla+) @Qidi X-Plus 4 0.4 nozzle - Copy"
+    ],
+    "filament_vendor": [
+        "eryone"
+    ],
+    "filament_wipe_distance": [
+        "0"
+    ],
+    "filament_z_hop": [
+        "0.2"
+    ],
+    "filament_z_hop_types": [
+        "Normal Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "50"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "50"
+    ],
+    "inherits": "Qidi Generic PLA @Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "benchy PLA (elegoo pla+) @Qidi X-Plus 4 0.4 nozzle - Copy",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "230"
+    ],
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "slow_down_layer_time": [
+        "0"
+    ],
+    "version": "2.2.0.4"
+}

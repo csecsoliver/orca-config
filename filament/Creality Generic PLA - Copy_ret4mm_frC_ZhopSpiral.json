@@ -1,0 +1,34 @@
+{
+    "filament_cost": [
+        "6500"
+    ],
+    "filament_flow_ratio": [
+        "1.03"
+    ],
+    "filament_notes": [
+        "frc == flow ratio calibrated\n    - filament: eryone green"
+    ],
+    "filament_retraction_length": [
+        "4"
+    ],
+    "filament_settings_id": [
+        "Creality Generic PLA - Copy_ret4mm_frC_ZhopSpiral"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Creality Generic PLA - Copy_ret4mm_frC_ZhopSpiral",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "195"
+    ],
+    "version": "2.2.0.4"
+}

@@ -1,0 +1,13 @@
+{
+    "filament_cost": [
+        "7000"
+    ],
+    "filament_settings_id": [
+        "Sovol Generic PLA - Copy"
+    ],
+    "from": "User",
+    "inherits": "Sovol Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Sovol Generic PLA - Copy",
+    "version": "2.2.0.4"
+}

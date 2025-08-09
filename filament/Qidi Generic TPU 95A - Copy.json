@@ -1,0 +1,61 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "enable_overhang_bridge_fan": [
+        "1"
+    ],
+    "fan_max_speed": [
+        "40"
+    ],
+    "fan_min_speed": [
+        "10"
+    ],
+    "filament_cost": [
+        "10000"
+    ],
+    "filament_end_gcode": [
+        ""
+    ],
+    "filament_flow_ratio": [
+        "1.25"
+    ],
+    "filament_max_volumetric_speed": [
+        "5"
+    ],
+    "filament_retraction_length": [
+        "2"
+    ],
+    "filament_settings_id": [
+        "Qidi Generic TPU 95A - Copy"
+    ],
+    "filament_start_gcode": [
+        ""
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "filament_z_hop_types": [
+        "Normal Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "40"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "40"
+    ],
+    "inherits": "Qidi Generic TPU 95A",
+    "is_custom_defined": "0",
+    "name": "Qidi Generic TPU 95A - Copy",
+    "nozzle_temperature": [
+        "220"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "slow_down_min_speed": [
+        "15"
+    ],
+    "version": "2.2.0.4"
+}

@@ -1,0 +1,34 @@
+{
+    "additional_cooling_fan_speed": [
+        "60"
+    ],
+    "default_filament_colour": [
+        "#F9DA00"
+    ],
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.99"
+    ],
+    "filament_max_volumetric_speed": [
+        "10"
+    ],
+    "filament_settings_id": [
+        "SUNLU Silk gold PLA+ @System - Copy"
+    ],
+    "filament_z_hop": [
+        "0.05"
+    ],
+    "from": "User",
+    "inherits": "SUNLU Silk PLA+ @System",
+    "is_custom_defined": "0",
+    "name": "SUNLU Silk gold PLA+ @System - Copy",
+    "pressure_advance": [
+        "0.045"
+    ],
+    "version": "2.3.0.2"
+}

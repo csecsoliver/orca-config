@@ -1,0 +1,40 @@
+{
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_cost": [
+        "8000"
+    ],
+    "filament_max_volumetric_speed": [
+        "18.5"
+    ],
+    "filament_settings_id": [
+        "Sovol aurapol red PETG"
+    ],
+    "filament_vendor": [
+        "elegoo"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Sovol Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Sovol aurapol red PETG",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "pressure_advance": [
+        "0.03"
+    ],
+    "version": "2.2.0.4"
+}

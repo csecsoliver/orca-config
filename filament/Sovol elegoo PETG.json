@@ -1,0 +1,19 @@
+{
+    "default_filament_colour": [
+        "#422DFF"
+    ],
+    "filament_cost": [
+        "9000"
+    ],
+    "filament_settings_id": [
+        "Sovol elegoo PETG"
+    ],
+    "filament_vendor": [
+        "elegoo"
+    ],
+    "from": "User",
+    "inherits": "Sovol Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Sovol elegoo PETG",
+    "version": "2.2.0.4"
+}

@@ -1,0 +1,17 @@
+{
+    "from": "User",
+    "gap_infill_speed": "40",
+    "inherits": "0.20mm Standard @Creality Ender3V2Neo",
+    "initial_layer_infill_speed": "50",
+    "initial_layer_speed": "30",
+    "inner_wall_speed": "50",
+    "internal_solid_infill_speed": "50",
+    "is_custom_defined": "0",
+    "name": "0.20mm Standard @Creality Ender3V2Neo - Copy",
+    "outer_wall_speed": "30",
+    "print_settings_id": "0.20mm Standard @Creality Ender3V2Neo - Copy",
+    "small_perimeter_threshold": "2",
+    "sparse_infill_speed": "70",
+    "support_speed": "120",
+    "version": "2.2.0.4"
+}

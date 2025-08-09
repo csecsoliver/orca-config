@@ -1,0 +1,53 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\nG92 E0\nTIMELAPSE_TAKE_FRAME\n",
+    "change_filament_gcode": "PAUSE",
+    "fan_speedup_time": "0.5",
+    "from": "User",
+    "inherits": "Qidi X-Plus 4 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "M141 S0\nM104 S0\nM140 S0\nG1 E-3 F1800\nG0 Z{min(max_print_height, max_layer_z + 3)} F600\nG0 X15 Y290 F12000\nG4 P2000\nTIMELAPSE_TAKE_FRAME\nG4 P2000\n{if max_layer_z < max_print_height / 2}G1 Z{max_print_height / 2 + 10} F600{else}G1 Z{min(max_print_height, max_layer_z + 3)}{endif}\n\n",
+    "machine_max_acceleration_x": [
+        "70000"
+    ],
+    "machine_max_acceleration_y": [
+        "70000"
+    ],
+    "machine_max_jerk_x": [
+        "30"
+    ],
+    "machine_max_jerk_y": [
+        "30"
+    ],
+    "machine_max_speed_e": [
+        "100"
+    ],
+    "machine_pause_gcode": "PAUSE",
+    "machine_start_gcode": "PRINT_START BED=[bed_temperature_initial_layer] HOTEND=[nozzle_temperature_initial_layer] CHAMBER=[chamber_temperature]\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count]\nM83\nM140 S[hot_plate_temp_initial_layer]\nM104 S[nozzle_temperature_initial_layer]\nM141 S[chamber_temperature]\nG4 P3000\nG0 X{max((min(print_bed_max[0] - 12, first_layer_print_min[0] + 80) - 85), 0)} Y{max((min(print_bed_max[1] - 3, first_layer_print_min[1] + 80) - 85), 0)} Z5 F6000\nG0 Z[initial_layer_print_height] F600\nG1 E3 F1800\nVORON_PURGE\nG1 Z1 F600\nSET_PRINT_STATS_INFO CURRENT_LAYER=1\n",
+    "manual_filament_change": "1",
+    "max_layer_height": [
+        "0.5"
+    ],
+    "name": "Qidi X-Plus 4 0.6 onozzle - Copy",
+    "nozzle_diameter": [
+        "0.6"
+    ],
+    "print_host": "100.111.44.3",
+    "printer_settings_id": "Qidi X-Plus 4 0.6 onozzle - Copy",
+    "retract_before_wipe": [
+        "75%"
+    ],
+    "retract_lift_above": [
+        "0.22"
+    ],
+    "retraction_length": [
+        "0.5"
+    ],
+    "time_cost": "100",
+    "version": "2.2.0.4",
+    "wipe_distance": [
+        "1"
+    ],
+    "z_hop_types": [
+        "Normal Lift"
+    ]
+}
